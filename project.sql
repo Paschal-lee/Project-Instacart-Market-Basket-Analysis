@@ -207,7 +207,7 @@ GROUP BY a.user_id
 ORDER BY customer_orders DESC;
 
 /*
-3. Product Association Rules:
+5. Product Association Rules:
 Analysis: Identify rules or patterns in customer behavior indicating which products are frequently bought together.
 */ 
 
