@@ -1,11 +1,10 @@
 # Instacart Market Basket Analysis
 The Instacart Market Basket Analysis project aims to explore and analyze customer shopping behavior using transactional data from the Instacart platform. This dataset provides a rich source of information that can be used to derive valuable insights for optimizing operations and enhancing customer experiences.
 
-# Dataset
-https://drive.google.com/drive/folders/1jr_MmfjuV6WmABMm7tzE70bImhd64XkG?usp=drive_link
+# Dataset Used:
+- <a href="https://drive.google.com/drive/folders/1jr_MmfjuV6WmABMm7tzE70bImhd64XkG?usp=drive_link">Dataset</a>
 
 # Data Process and Instights
-
 ## Data Exploration
 Objective: Understand the structure and content of the database tables.
 Actions Taken:
